@@ -141,6 +141,6 @@ TAVILY_API_KEY=your_tavily_key_here   # optional, for web search
 
 ---
 
-## License
+## Author
 
-MIT
+Urvashi Pandey and Veera Bishnoi
