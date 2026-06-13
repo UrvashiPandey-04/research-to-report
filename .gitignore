@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+
+# Environment variables (API keys)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# Generated report outputs
+generated_reports/*.pdf
+generated_reports/*.docx
+
+# Frontend build output
+frontend/dist/
+
+# Python packaging
+*.egg-info/
